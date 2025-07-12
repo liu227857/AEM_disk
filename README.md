@@ -1,22 +1,21 @@
-# Disk-Shaped Area-Preserving Parameterization
+<h1 align="left"> Disk-Shaped Area-Preserving Parameterization</h1>
 
-<img src="Lion_M.png" width="15%" align="left" />
-<img src="Lion_uv.png" width="15%" />
+<p align="left">
+  <img src="Lion_M.png" width="20%" />
+  <img src="Lion_uv.png" width="20%" />
+</p>
 
 <br clear="both" />
 
-This repository provides an implementation of a **convergent energy minimization method** for **disk-shaped area-preserving parameterization** of open triangular meshes.
+This repository provides an implementation of a convergent energy minimization method for disk-shaped area-preserving parameterization of open triangular meshes.
 
 If you use this code in your own work, please cite the following paper:
 
 > [1] **S.-Y. Liu** and **M.-H. Yueh**,  
 > *Convergent Authalic Energy Minimization for Disk Area-Preserving Parameterizations*,  
-> [DOI: 10.1007/s10915-024-02594-2](https://doi.org/10.1007/s10915-024-02594-2)
+> [doi: 10.1007/s10915-024-02594-2](https://doi.org/10.1007/s10915-024-02594-2).
 
 
-This software is released for academic and research purposes only.
-Commercial use is not permitted without prior written permission from the authors.
-© Copyright (c) 2024, Shu-Yung Liu and Mei-Heng Yueh
 
 ---
 
@@ -36,3 +35,13 @@ Output:
 * `Iter`: number of iterations
 * `VI`: indices of interior vertices
 * `VB`: indices of boundary vertices
+
+
+---
+
+### License
+
+This software is released for academic and research purposes only.  
+Commercial use is not permitted without prior written permission from the authors.
+
+© 2024 Shu-Yung Liu and Mei-Heng Yueh
