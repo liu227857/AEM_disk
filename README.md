@@ -20,21 +20,21 @@ If you use this code in your own work, please cite the following paper:
 ---
 
 ### Main Function
-`[uv, Iter, VB, VI] = DiskAEM(F, V, Options)`
+`[uv, VB, VI] = DiskAEM(F, V)`
 
 Required Input:
-* `F`: `#F x 3` triangulations of an open triangle mesh
-* `V`: `#V x 3` vertex coordinates of an open triangle mesh
-
-Optional Input:
-* `Options.MaxIter`: the maximum iterative number (default: 200)
-* `Options.Tol`: the tolerance of stopping criteria (default: 1e-6)
+- `F`: `#F x 3` triangulations of an open triangle mesh
+- `V`: `#V x 3` vertex coordinates of an open triangle mesh
 
 Output:
-* `uv`: `#V x 2` vertex coordinates of the disk-shaped area-preserving map
-* `Iter`: number of iterations
-* `VI`: indices of interior vertices
-* `VB`: indices of boundary vertices
+- `uv`: `#V x 2` vertex coordinates of the disk-shaped area-preserving map
+- `VI`: indices of interior vertices
+- `VB`: indices of boundary vertices
+
+
+Optional Input:
+- `DiskAEM( __, "MaxIter", Value)`: the maximum iterative number (default: 200)
+- `DiskAEM( __, "Tol", Value)`: the tolerance of stopping criteria (default: 1e-6)
 
 
 ---
