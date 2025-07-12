@@ -20,9 +20,8 @@ Commercial use is not permitted without prior written permission from the author
 
 ---
 
-## Main Function
-
-* `[uv, Iter, VB, VI] = DiskAEM(F, V, Options)`
+### Main Function
+`[uv, Iter, VB, VI] = DiskAEM(F, V, Options)`
 
 Required Input:
 * `F`: `#F x 3` triangulations of an open triangle mesh
