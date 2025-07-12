@@ -16,7 +16,7 @@ If you use this code in your own work, please cite the following paper:
 
 This software is released for academic and research purposes only.
 Commercial use is not permitted without prior written permission from the authors.
-© Copyright (c) 2024, Shu-Yung Liu, Mei-Heng Yueh
+© Copyright (c) 2024, Shu-Yung Liu and Mei-Heng Yueh
 
 ---
 
