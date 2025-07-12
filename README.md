@@ -13,7 +13,7 @@ If you use this code in your own work, please cite the following paper:
 
 > [1] **S.-Y. Liu** and **M.-H. Yueh**,  
 > *Convergent Authalic Energy Minimization for Disk Area-Preserving Parameterizations*,  
-> [DOI: 10.1007/s10915-024-02594-2](https://doi.org/10.1007/s10915-024-02594-2)
+> [doi: 10.1007/s10915-024-02594-2](https://doi.org/10.1007/s10915-024-02594-2).
 
 
 
