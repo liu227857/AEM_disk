@@ -1,7 +1,7 @@
 # Disk-Shaped Area-Preserving Parameterization
 
-<img src="images/Lion_M.png" width="45%" align="left" />
-<img src="images/Lion_uv.png" width="45%" />
+<img src="Lion_M.png" width="45%" align="left" />
+<img src="Lion_uv.png" width="45%" />
 
 <br clear="both" />
 
@@ -22,18 +22,18 @@ Commercial use is not permitted without prior written permission from the author
 
 ## Main Function
 
-*`[uv, Iter, VB, VI] = DiskAEM(F, V, Options)`
+* `[uv, Iter, VB, VI] = DiskAEM(F, V, Options)`
 
 Required Input:
-`F`: `#F x 3` triangulations of an open triangle mesh
-`V`: `#V x 3` vertex coordinates of an open triangle mesh
+* `F`: `#F x 3` triangulations of an open triangle mesh
+* `V`: `#V x 3` vertex coordinates of an open triangle mesh
 
 Optional Input:
-`Options.MaxIter`: the maximum iterative number (default: 200)
-`Options.Tol`: the tolerance of stopping criteria (default: 1e-6)
+* `Options.MaxIter`: the maximum iterative number (default: 200)
+* `Options.Tol`: the tolerance of stopping criteria (default: 1e-6)
 
 Output:
-`uv`: `#V x 2` vertex coordinates of the disk-shaped area-preserving map
-`Iter`: number of iterations
-`VI`: indices of interior vertices
-`VB`: indices of boundary vertices
+* `uv`: `#V x 2` vertex coordinates of the disk-shaped area-preserving map
+* `Iter`: number of iterations
+* `VI`: indices of interior vertices
+* `VB`: indices of boundary vertices
