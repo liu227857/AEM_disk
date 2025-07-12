@@ -1,6 +1,6 @@
-<h1 align="center"> Disk-Shaped Area-Preserving Parameterization</h1>
+<h1 align="left"> Disk-Shaped Area-Preserving Parameterization</h1>
 
-<p align="center">
+<p align="left">
   <img src="Lion_M.png" width="20%" />
   <img src="Lion_uv.png" width="20%" />
 </p>
