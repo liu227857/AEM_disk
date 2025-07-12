@@ -14,7 +14,6 @@ If you use this code in your own work, please cite the following paper:
 > [DOI: 10.1007/s10915-024-02594-2](https://doi.org/10.1007/s10915-024-02594-2)
 
 
-**License**
 This software is released for academic and research purposes only.
 Commercial use is not permitted without prior written permission from the authors.
 © Copyright (c) 2024, Shu-Yung Liu and Mei-Heng Yueh
