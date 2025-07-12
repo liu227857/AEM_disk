@@ -1,7 +1,7 @@
 # Disk-Shaped Area-Preserving Parameterization
 
-<img src="Lion_M.png" width="30%" align="left" />
-<img src="Lion_uv.png" width="30%" />
+<img src="Lion_M.png" width="10%" align="left" />
+<img src="Lion_uv.png" width="10%" />
 
 <br clear="both" />
 
