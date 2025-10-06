@@ -26,12 +26,6 @@ Required Input:
 * `F`: `#F x 3` triangulations of an open triangle mesh
 * `V`: `#V x 3` vertex coordinates of an open triangle mesh
 
-Optional Input:
-* `Options.MaxIter`: the maximum iterative number (default: 100)
-* `Options.Tol`: the tolerance of stopping criteria (default: 1e-5)
-- `F`: `#F x 3` triangulations of an open triangle mesh
-- `V`: `#V x 3` vertex coordinates of an open triangle mesh
-
 Output:
 - `uv`: `#V x 2` vertex coordinates of the disk-shaped area-preserving map
 - `VI`: indices of interior vertices
