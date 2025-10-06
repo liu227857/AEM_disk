@@ -32,8 +32,8 @@ Output:
 - `VB`: indices of boundary vertices
 
 Optional Input:
-- `DiskAEM( __, "MaxIter", Value)`: the maximum iterative number (default: 200)
-- `DiskAEM( __, "Tol", Value)`: the tolerance of objective function deficit (default: 1e-6)
+- `DiskAEM( __, "MaxIter", Value)`: the maximum iterative number (default: 100)
+- `DiskAEM( __, "Tol", Value)`: the tolerance of objective function deficit (default: 1e-5)
 
 
 ---
