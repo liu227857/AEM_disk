@@ -30,7 +30,7 @@
 
 %% Example: Chinese Lion
 clear; clc;
-load('ChineseLion.mat')
+load('StanfordBunny.mat')
 
 uv = DiskAEM(F, V);
 
