@@ -13,8 +13,8 @@
 % VI: indices of interior vertices
 %
 % Optional Input:
-% DiskAEM( __, "MaxIter", Value): the maximum iterative number (default: 200)
-% DiskAEM( __, "Tol", Value): the tolerance of stoping criteria (default: 1e-6)
+% DiskAEM( __, "MaxIter", Value): the maximum iterative number (default: 100)
+% DiskAEM( __, "Tol", Value): the tolerance of stoping criteria (default: 1e-5)
 % 
 % Remark:
 % If you use this code in your own work, please cite the following paper:

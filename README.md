@@ -1,11 +1,11 @@
 <h1 align="left"> Disk-Shaped Area-Preserving Parameterization</h1>
 
 <p align="left">
-  <img src="Lion_M.png" width="20%" />
-  <img src="Lion_uv.png" width="20%" />
+  <img src="Bunny_M.png" width="20%" >
+  <img src="Bunny_uv.png" width="20%" >
 </p>
 
-<br clear="both" />
+<br clear="both" >
 
 This repository provides an implementation of a convergent energy minimization method for disk-shaped area-preserving parameterization of open triangular meshes.
 
@@ -27,8 +27,8 @@ Required Input:
 * `V`: `#V x 3` vertex coordinates of an open triangle mesh
 
 Optional Input:
-* `Options.MaxIter`: the maximum iterative number (default: 200)
-* `Options.Tol`: the tolerance of stopping criteria (default: 1e-6)
+* `Options.MaxIter`: the maximum iterative number (default: 100)
+* `Options.Tol`: the tolerance of stopping criteria (default: 1e-5)
 
 Output:
 * `uv`: `#V x 2` vertex coordinates of the disk-shaped area-preserving map
