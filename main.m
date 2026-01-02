@@ -28,7 +28,7 @@
 % Copyright (c), Shu-Yung Liu and Mei-Heng Yueh
 
 
-%% Example: Chinese Lion
+%% Example: Bunny
 clear; clc;
 load('StanfordBunny.mat')
 
