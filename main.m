@@ -16,7 +16,8 @@
 % DiskAEM( __, "MaxIter", Value): the maximum iterative number (default: 100)
 % DiskAEM( __, "Tol", Value): the tolerance of stoping criteria (default: 1e-5)
 % 
-% Remark:
+%
+%% Remark:
 % If you use this code in your own work, please cite the following paper:
 % [1] S.-Y. Liu, and M.-H. Yueh, "Convergent Authalic Energy Minimization 
 %     for Disk Area-Preserving Parameterizations"
@@ -28,7 +29,8 @@
 % Copyright (c), Shu-Yung Liu and Mei-Heng Yueh
 
 
-%% Example: Bunny
+
+%% Example: Chinese Lion
 clear; clc;
 load('StanfordBunny.mat')
 
