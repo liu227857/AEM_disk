@@ -1,4 +1,4 @@
-<h1 align="left"> Disk-Shaped Area-Preserving Parameterization</h1>
+<h1 align="left"> Area-Preserving Parameterization</h1>
 
 <p align="left">
   <img src="Bunny_M.png" width="20%" >
@@ -7,7 +7,7 @@
 
 <br clear="both" >
 
-This repository provides an implementation of a convergent energy minimization method for disk-shaped area-preserving parameterization of open triangular meshes.
+This repository provides an implementation of a convergent energy minimization method for disk-shaped area-preserving parameterization of triangular meshes.
 
 If you use this code in your own work, please cite the following paper:
 
