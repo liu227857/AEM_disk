@@ -1,4 +1,4 @@
-%% Disk-Shaped Area-Preserving Parameterization
+%% Area-Preserving Parameterization
 %
 % Main program:
 % [uv, VB, VI] = DiskAEM(F, V)
